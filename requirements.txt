@@ -1,0 +1,5 @@
+transformers==3.0.2
+
+numpy~=1.18.1
+tensorflow~=2.2.0
+tensorflow-datasets~=3.2.1
